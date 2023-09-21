@@ -6,3 +6,11 @@
 ###### This is a H6 header
 
 ![Image of GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
+
+Three git basic commands.
+```
+$git add <file>
+$git status
+$git commit -m "<message>"
+```

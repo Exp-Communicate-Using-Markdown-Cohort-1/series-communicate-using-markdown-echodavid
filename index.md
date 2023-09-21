@@ -14,3 +14,8 @@ $git add <file>
 $git status
 $git commit -m "<message>"
 ```
+
+Get started with GitHub
+- [x] Profile README
+- [x] Explore GitHub
+- [ ] Communicate using Markdown
